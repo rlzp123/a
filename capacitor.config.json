@@ -1,0 +1,8 @@
+{
+  "appId": "com.jogae.app",
+  "appName": "JOGAÊ",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
